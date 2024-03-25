@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulacaleffi
-- 👀 I’m interested in Web Development, which mostly is PHP, HTML, CSS, JS. 
-- 🌱 I’m currently learning Node.JS and React
-- 📫 How to reach me - dm on Instagram rahulacaleffi or through my website
+- 👀 I’m Fullstack Web Developer, working mostly with PHP, React, Node.js, Next.JS, Vue, CSS, JS vanilla. 
+- 🌱 Agile adapted
+- 📫 How to reach me - Linkedin or through my website - rahula.com.br
 
 <!---
 rahulacaleffi/rahulacaleffi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
